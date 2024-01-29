@@ -27,6 +27,7 @@ ul {
     font-weight: 900;
     padding-left: 200px;
     padding-right: 200px;
+    
 }
 
 .text, a{
@@ -43,6 +44,12 @@ ul {
     justify-content: center; 
     flex-flow: column wrap;
     gap: 20px; 
+    padding-right: 20px;
+    
+}
+.right {
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 .text {
     align-self: flex-start;
